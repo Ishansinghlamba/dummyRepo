@@ -1,0 +1,51 @@
+.color {
+  color: rgb(85, 72, 179);
+  font-size: 25px;
+  font-weight: 600;
+}
+.height {
+  line-height: 300%;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  /* outline: red solid; */
+  width: 50%;
+}
+.color1 {
+  color: rgb(85, 72, 179);
+  font-size: 20px;
+  font-weight: 600;
+}
+.flex {
+  display: flex;
+  outline: solid yellow;
+}
+.ind {
+  /* outline: solid green; */
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+input {
+  height: 25px;
+  text-align: center;
+}
+.ind1 {
+  /* outline: solid green; */
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  pointer-events: none;
+  opacity: 0.4;
+}
+.green {
+  color: green;
+  font-size: 30px;
+}
+.red {
+  color: red;
+  font-size: 30px;
+}
